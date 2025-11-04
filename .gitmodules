@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:AmNotOnline/Mobile-Application-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Kevin-Hiers/Software-Craftmanship-Backend.git
